@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Shreeyash Lahane 🤓
 
-Data Dynamo: Bridging Analytics, Engineering & Intelligence to Power Business Growth 📈
+Bridging Analytics, Engineering & Intelligence to Power Business Growth 📈
 
 Check out my [Tableau Public Profile](https://public.tableau.com/app/profile/shreeyash.lahane/vizzes) 🔥
 

@@ -5,7 +5,7 @@ Data Scientist | Turning Data into Actionable Intelligence with Advanced ML, AI 
 
 Check out my Tableau Public Profile 🔥
 
-- 💬 Ask me about:
+💬 Ask me about:
 
  - Designing and deploying end-to-end ML pipelines (from data ingestion to production)
 
@@ -17,13 +17,13 @@ Check out my Tableau Public Profile 🔥
 
  - Risk modeling and predictive analytics at scale
 
-- 📫 How to reach me:
+📫 How to reach me:
 
  - Email: lahane.s@northeastern.edu
 
  - LinkedIn: linkedin.com/in/shreeyashlahane/
 
-- ⚡ Fun fact: "Less than 0.5% of all data we create is ever used or analyzed — my mission is to change that."
+⚡ Fun fact: "Less than 0.5% of all data we create is ever used or analyzed — my mission is to change that."
 <!--
 **shreeyashl333/shreeyashl333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

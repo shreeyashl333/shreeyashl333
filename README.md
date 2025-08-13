@@ -1,26 +1,29 @@
-## Hi there 👋
-I'm Shreeyash Lahane 🤓
+Hi there 👋
+I'm Shreeyash Lahane 🎯
 
-Bridging Analytics, Engineering & Intelligence to Power Business Growth 📈
+Data Scientist | Turning Data into Actionable Intelligence with Advanced ML, AI & Scalable Analytics Solutions 🚀
 
-Check out my [Tableau Public Profile](https://public.tableau.com/app/profile/shreeyash.lahane/vizzes) 🔥
+Check out my Tableau Public Profile 🔥
 
-- 💬 Ask me about
-  
-    - Analyzing Trends/Patterns
-    - Visualizing Stories/Insights
-    - Optimizing Processes
-    - Automating Workflows
-    - Managing Risks 
+💬 Ask me about:
 
-- 📫 How to reach me:
+Designing and deploying end-to-end ML pipelines (from data ingestion to production)
 
-    - Email: lahane.s@northeastern.edu
-    - LinkedIn: https://www.linkedin.com/in/shreeyashlahane/
-      
+Building explainable AI systems for complex decision-making
 
-- ⚡ Fun fact: 
-      "Less than 0.5% of all data we create is ever used or analyzed!"
+Driving data strategy and analytics roadmaps for business growth
+
+Automating workflows and enabling self-service analytics
+
+Risk modeling and predictive analytics at scale
+
+📫 How to reach me:
+
+Email: lahane.s@northeastern.edu
+
+LinkedIn: linkedin.com/in/shreeyashlahane/
+
+⚡ Fun fact: "Less than 0.5% of all data we create is ever used or analyzed — my mission is to change that."
 <!--
 **shreeyashl333/shreeyashl333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

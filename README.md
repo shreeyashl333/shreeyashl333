@@ -3,8 +3,6 @@ I'm Shreeyash Lahane 🎯
 
 Data Scientist | Turning Data into Actionable Intelligence with Advanced ML, AI & Scalable Analytics Solutions 🚀
 
-Check out my Tableau Public Profile 🔥
-
 💬 Ask me about:
 
  - Designing and deploying end-to-end ML pipelines (from data ingestion to production)

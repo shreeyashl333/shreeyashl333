@@ -17,7 +17,7 @@ Data Scientist | Turning Data into Actionable Intelligence with Advanced ML, AI 
 
 📫 How to reach me:
 
- - Email: lahane.s@northeastern.edu
+ - Email: shreeyash.l@mymailkeeper.com
 
  - LinkedIn: linkedin.com/in/shreeyashlahane/
 
